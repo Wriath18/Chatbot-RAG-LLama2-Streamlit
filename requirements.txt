@@ -9,4 +9,4 @@ langchain-text-splitters
 langcodes
 langdetect
 langsmith
-sentense-transformers
+sentence-transformers
