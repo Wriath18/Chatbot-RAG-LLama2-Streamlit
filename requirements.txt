@@ -2,7 +2,7 @@ streamlit==1.30.0
 streamlit-chat==0.1.1
 # langchain==0.1.6
 langchain-community==0.0.19
-langchain-core==0.1.23
+# langchain-core==0.1.23
 langchain-experimental==0.0.56
 langchain-google-genai==1.0.1
 langchain-text-splitters==0.0.1
