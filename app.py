@@ -103,7 +103,7 @@ def load_llm():
     return llm
 
 st.title("CSV & PDF Chatbot using Llama2 🦙 and Streamlit 🤖")
-st.markdown("<h3 style='text-align: center; color: white;'>This is a RAG based chatbot which utilizes Llama2 as llm model and Streamlit as frontend. <br><a href='https://github.com/AIAnytime'>Wriath18 </a></h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center; color: white;'>This is a RAG based chatbot which utilizes Llama2 as llm model and Streamlit as frontend. <br><a href='https://github.com/Wriath18/Chatbot-RAG-LLama2-Streamlit'>Checkout Github Repo </a></h3>", unsafe_allow_html=True)
 
 uploaded_file = st.sidebar.file_uploader("Upload your Data", type=["csv", "pdf"])
 
