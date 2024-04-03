@@ -10,4 +10,4 @@ langcodes
 langdetect
 langsmith
 sentence-transformers
-fiass-cpu
+faiss-cpu
