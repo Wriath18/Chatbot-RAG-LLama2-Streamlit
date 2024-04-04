@@ -11,3 +11,4 @@ langdetect
 langsmith
 sentence-transformers
 faiss-cpu
+ctransformers
